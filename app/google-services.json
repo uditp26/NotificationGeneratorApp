@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "146908557602",
+    "firebase_url": "https://remotenotifier.firebaseio.com",
+    "project_id": "remotenotifier",
+    "storage_bucket": "remotenotifier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146908557602:android:a4c1c00cd1ed0634",
+        "android_client_info": {
+          "package_name": "com.example.remotenotifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146908557602-l3al467p7ptbis0tknackneme175h9r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp2uL65wB5EGFUqmJWSXico6gVwhk3gz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146908557602-l3al467p7ptbis0tknackneme175h9r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

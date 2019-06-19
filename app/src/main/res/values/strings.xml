@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RemoteNotifier</string>
+    <string name="senderLogin">Sender</string>
+    <string name="receiverLogin">Receiver</string>
+    <string name="queryButton">Notify</string>
+    <string name="clearButton">Clear</string>
+    <string name="submitButton">Submit</string>
+    <string name="loginScreen">Login Screen</string>
+    <string name="welcomeText">Welcome User</string>
+    <string name="senderHead">Notification Sender</string>
+    <string name="senderDetail">Click on one of the options below to send a notification about that topic.</string>
+    <string name="receiverHead">Notification Receiver</string>
+    <string name="receiverDetail">Enter comments if any as per the notification and submit. </string>
+    <string name="notifOption1">Yes</string>
+    <string name="notifOption2">No</string>
+    <string name="queryDetail">Have you taken the medicine?</string>
+    <string name="hintText1">Enter comments here</string>
+    <string name="msg_token_fmt">Retrieving registration token…</string>
+</resources>
